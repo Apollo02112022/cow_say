@@ -1,0 +1,23 @@
+{
+  "name": "cow_say",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apollo02112022/cow_say.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apollo02112022/cow_say/issues"
+  },
+  "homepage": "https://github.com/Apollo02112022/cow_say#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
