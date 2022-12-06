@@ -3,7 +3,5 @@ const myObj = {
     myCampus:"WCS Paris",
 };
 
-module.exports = { 
-    myObj 
-} 
+module.exports = myObj;
 

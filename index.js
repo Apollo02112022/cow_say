@@ -1,4 +1,4 @@
-const { myObj } = require("./information.js"); 
+const myObj = require("./information.js");
 
 let cowsay = require("cowsay");
 
